@@ -6,8 +6,8 @@
   
   body {
     /* more on this crazy alphanumerical value in a minute! */
-    color: #39a6b2
-    font-family; Helvetica, Arial, sans-serif;
+    color: #39a6b2;
+    font-family: Helvetica, arial, sans-serif;
    }
   
   /* apply styles to <header> */
@@ -140,8 +140,9 @@
     background: #fce138;
   }
 
+
   .steps div {
-    margin-bottom: 8
+    margin-bottom: 80px;
   }
   
   .steps img {
